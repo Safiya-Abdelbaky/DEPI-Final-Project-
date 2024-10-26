@@ -3,15 +3,6 @@
 ## Project Overview
 This project involves designing, configuring, and securing a small network using Cisco devices. The tasks are divided into four weeks, each focusing on a different aspect of network implementation and security.
 
-## Team Members
-- Mohab
-- Mohamed Hamada
-- Moataz
-- Safiya Abdelbaky 
-- Sara
-- Yassin
-
----
 
 ## Network Design Screenshot
 Here is a screenshot of the network design from Cisco Packet Tracer:
