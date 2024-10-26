@@ -4,10 +4,15 @@
 This project involves designing, configuring, and securing a small network using Cisco devices. The tasks are divided into four weeks, each focusing on a different aspect of network implementation and security.
 ## Group members
 Mouhab Khaira
+
 Safiya Abdelbaky
+
 Sara Ashour
+
 Yassen Ali
+
 Mohamed Hamada
+
 Moataz Mohammad
 
 ## Network Design Screenshot
